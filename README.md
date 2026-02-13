@@ -16,7 +16,7 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 ## Skills
 
 **Programming & Data Processing**
-- Python — pandas, NumPy, SciPy, scikit-learn, Plotly, Flask
+- Python — pandas, polars, NumPy, SciPy, scikit-learn, Plotly, Flask, FastAPI
 - SQL — ClickHouse, PostgreSQL
 - Distributed data processing — YQL, YTsaurus
 
@@ -33,7 +33,7 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 ## Work Experience
 
 ### Senior Product Analyst — Yandex Classified, Auto.ru
-**Belgrade, Serbia** · January 2024 – Present
+**Ranking & Recommendations Team** · **Belgrade, Serbia** · January 2024 – Present
 
 - Redesigned decision-making metrics for A/B experiments, reducing false-positive rates and minimizing negative user experience impact
 - Built real-time event monitoring pipelines enabling early detection of production issues
