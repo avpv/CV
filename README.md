@@ -36,7 +36,7 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 **Belgrade, Serbia** · January 2024 – Present  
 **Ranking & Recommendations Team**
 
-Improving A/B experiment quality through redesigned decision-making metrics. Building real-time monitoring for early issue detection and optimizing ETL pipelines for faster data delivery.
+Leading end-to-end analytics for ranking and recommendation systems: designing A/B experiment frameworks, building real-time quality monitoring, and turning data into actionable insights that shape product strategy.
 
 ---
 
@@ -44,28 +44,28 @@ Improving A/B experiment quality through redesigned decision-making metrics. Bui
 **Saint Petersburg, Russia → Belgrade, Serbia** · October 2021 – December 2023 (2 years 3 months)  
 **C2B Car Buyout Team**
 
-Built a metrics system for the "Car Buyout" product from scratch. Ran user profile analyses and A/B tests to optimize conversion and user experience, working closely with product and engineering teams.
+Built a metrics system for the "Car Buyout" product from scratch. Extracted insights from user behaviour data and A/B tests to drive product decisions and improve conversion.
 
 ---
 
 ### Middle Product Analyst — Yandex Classified General, o.yandex.ru
 **Saint Petersburg, Russia** · April 2020 – October 2021 (1 year 7 months)
 
-Measured and improved content relevance algorithms, boosting user satisfaction and retention. Designed and ran A/B tests across multiple classifieds verticals.
+Uncovered insights on content relevance that led to measurable improvements in user satisfaction and retention. Designed and ran A/B tests across multiple classifieds verticals.
 
 ---
 
 ### Product Analyst — Yandex Classified Realty, realty.yandex.ru
 **Saint Petersburg, Russia** · December 2017 – April 2020 (2 years 5 months)
 
-Conducted ad-hoc and exploratory analyses to uncover product improvement opportunities. Designed A/B tests to validate hypotheses and understand user behaviour.
+Conducted exploratory analyses to surface product improvement opportunities. Translated A/B test results into clear insights on user behaviour and preferences for the product team.
 
 ---
 
 ### Data Analyst — Gifts.ru
 **Saint Petersburg, Russia** · January 2015 – December 2017 (3 years)
 
-Developed product assortment matrices and demand forecasting models to optimize warehouse inventory.
+Developed demand forecasting models and product assortment analysis, delivering inventory optimization insights that reduced stockouts.
 
 ---
 
