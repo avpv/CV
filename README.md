@@ -36,9 +36,7 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 **Belgrade, Serbia** · January 2024 – Present  
 **Ranking & Recommendations Team**
 
-- Redesigned decision-making metrics for A/B experiments, reducing false-positive rates and minimizing negative user experience impact
-- Built real-time event monitoring pipelines enabling early detection of production issues
-- Optimized critical ETL processes, significantly improving data freshness and pipeline reliability
+Improving A/B experiment quality through redesigned decision-making metrics. Building real-time monitoring for early issue detection and optimizing ETL pipelines for faster data delivery.
 
 ---
 
@@ -46,32 +44,28 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 **Saint Petersburg, Russia → Belgrade, Serbia** · October 2021 – December 2023 (2 years 3 months)  
 **C2B Car Buyout Team**
 
-- Designed and launched a metrics system to measure and continuously improve "Car Buyout" product performance
-- Conducted in-depth user profile analysis and ran A/B tests to optimize product features and conversion rates
-- Collaborated with product and engineering teams to translate analytical findings into actionable product changes
+Built a metrics system for the "Car Buyout" product from scratch. Ran user profile analyses and A/B tests to optimize conversion and user experience, working closely with product and engineering teams.
 
 ---
 
 ### Middle Product Analyst — Yandex Classified General, o.yandex.ru
 **Saint Petersburg, Russia** · April 2020 – October 2021 (1 year 7 months)
 
-- Measured and improved content relevance algorithms, increasing user satisfaction and retention metrics
-- Designed and executed A/B tests for product feature optimization across multiple classifieds verticals
+Measured and improved content relevance algorithms, boosting user satisfaction and retention. Designed and ran A/B tests across multiple classifieds verticals.
 
 ---
 
 ### Product Analyst — Yandex Classified Realty, realty.yandex.ru
 **Saint Petersburg, Russia** · December 2017 – April 2020 (2 years 5 months)
 
-- Performed ad-hoc and exploratory analyses to identify product improvement opportunities and inform roadmap prioritization
-- Designed and ran A/B tests to evaluate user behavior changes and validate product hypotheses
+Conducted ad-hoc and exploratory analyses to uncover product improvement opportunities. Designed A/B tests to validate hypotheses and understand user behaviour.
 
 ---
 
 ### Data Analyst — Gifts.ru
 **Saint Petersburg, Russia** · January 2015 – December 2017 (3 years)
 
-- Developed product assortment matrices and demand forecasting models, optimizing warehouse inventory and reducing stockouts
+Developed product assortment matrices and demand forecasting models to optimize warehouse inventory.
 
 ---
 
