@@ -32,8 +32,8 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 
 ## Work Experience
 
-### Senior Product Analyst — Yandex Classified, Auto.ru
-**Ranking & Recommendations Team** · **Belgrade, Serbia** · January 2024 – Present
+### Senior Product Analyst — Yandex Classified, Auto.ru · **Ranking & Recommendations Team**
+**Belgrade, Serbia** · January 2024 – Present
 
 - Redesigned decision-making metrics for A/B experiments, reducing false-positive rates and minimizing negative user experience impact
 - Built real-time event monitoring pipelines enabling early detection of production issues
@@ -41,7 +41,7 @@ Experienced Senior Product Analyst with 8+ years in data analysis, product devel
 
 ---
 
-### Middle Product Analyst — Yandex Classified, Auto.ru
+### Middle Product Analyst — Yandex Classified, Auto.ru · **C2B Car Buyout Team**
 **Saint Petersburg, Russia → Belgrade, Serbia** · October 2021 – December 2023 (2 years 3 months)
 
 - Designed and launched a metrics system to measure and continuously improve "Car Buyout" product performance
